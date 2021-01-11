@@ -2,7 +2,7 @@
 
 # Full stack Todo List
 
-This a fullstack todo list using ![PosgreSQL](https://www.postgresql.org/) and ![React](https://reactjs.org/).
+This a fullstack todo list using [PosgreSQL](https://www.postgresql.org/) and [React](https://reactjs.org/).
 
 ## Features
 
@@ -14,13 +14,13 @@ This a fullstack todo list using ![PosgreSQL](https://www.postgresql.org/) and !
 
 ## Packages used
 
-- ![Express](https://www.npmjs.com/package/express)
+- [Express](https://www.npmjs.com/package/express)
 
-- ![cors](https://www.npmjs.com/package/cors)
+- [cors](https://www.npmjs.com/package/cors)
 
-- ![pg](https://www.npmjs.com/package/pg)
+- [pg](https://www.npmjs.com/package/pg)
 
-- ![bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+- [bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 # Install
 
